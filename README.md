@@ -2,7 +2,7 @@
 Copy over text from Citrix even when copy paste policy is off.
 
 Flow:
-  > visualize_color_variation.py runs in citrix remote desktop.<\br>
+  > visualize_color_variation.py runs in citrix remote desktop.
   It generates a image (from the text which you provided as input to variable 'test_string')
   
   > On your local desktop, take screenshot of above generated image.
